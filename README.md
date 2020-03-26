@@ -1,11 +1,25 @@
 # Covid-19-Hackathon
 MachineHack Covid-19 Hackathon datasets
 
-Terms of Use:
+## Important Note
+
+The following datasets has been deprecated since 25th March 2020 :
+
+covid_confirmed_daily_updates.csv
+covid_deaths_daily_updates.csv
+covid_recovered_daily_updates.csv
+
+Going forward participants must use the following files to predict the count of Confirmed and Death cases . Please refer the sample submission to see the submission format.
+
+global_covid_confirmed_daily_updates.csv
+global_covid_deaths_daily_updates.csv
+
+
+## Terms of Use:
 
 This GitHub repo and its contents herein, including all data, mapping, and analysis, copyright 2020 Johns Hopkins University, all rights reserved, is provided to the public strictly for educational and academic research purposes. The Website relies upon publicly available data from multiple sources, that do not always agree. The Johns Hopkins University hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
 
-Data Sources:
+## Data Sources:
 
 CSSE at Johns Hopkins University Github : https://github.com/CSSEGISandData/COVID-19
 World Health Organization (WHO): https://www.who.int/
