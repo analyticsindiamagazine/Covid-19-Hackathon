@@ -5,14 +5,17 @@ MachineHack Covid-19 Hackathon datasets
 
 The following datasets has been deprecated since 25th March 2020 :
 
-covid_confirmed_daily_updates.csv
-covid_deaths_daily_updates.csv
-covid_recovered_daily_updates.csv
+ 1. covid_confirmed_daily_updates.csv
+ 
+ 2. covid_deaths_daily_updates.csv
+ 
+ 3. covid_recovered_daily_updates.csv
 
 Going forward participants must use the following files to predict the count of Confirmed and Death cases . Please refer the sample submission to see the submission format.
 
-global_covid_confirmed_daily_updates.csv
-global_covid_deaths_daily_updates.csv
+ 1. global_covid_confirmed_daily_updates.csv
+ 
+ 2. global_covid_deaths_daily_updates.csv
 
 
 ## Terms of Use:
